@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>Inicio | Leonel DC</title>
+<title>Inicio | Mishel DC</title>
 <script></script>
 </head>
 
 <body>
-<h1>Leonel DC</h1>
+<h1>Mishel DC</h1>
 <img src="" />
 <script>
 console.log("Hola mundo")
